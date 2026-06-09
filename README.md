@@ -1,2 +1,4 @@
 # my-first-code
-this is my first repo.
+This is my first repo.
+<br>
+AUTHOR: Divyanshu jha
